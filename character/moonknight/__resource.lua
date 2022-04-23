@@ -1,0 +1,5 @@
+fx_version 'cerulean'
+author 'Th3 Key '
+description 'this script develop for end point user'
+version '1.0.0'
+game: 'gta5'
